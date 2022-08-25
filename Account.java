@@ -17,7 +17,7 @@ public abstract class Account {
 		this.balance = balance;
 	}
 
-  void deposit(double amount)
+  	void deposit(double amount)
 	{
 		balance = balance + amount;
 	}
