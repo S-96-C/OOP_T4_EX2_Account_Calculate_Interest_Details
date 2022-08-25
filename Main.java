@@ -10,7 +10,7 @@ public class Main {
 		acc2.deposit(5000);
 		acc2.withdraw(300.0);
 
-    acc1.display();
+    		acc1.display();
 		acc2.display();
 		
   }
