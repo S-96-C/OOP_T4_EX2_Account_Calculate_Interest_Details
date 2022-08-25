@@ -1,4 +1,4 @@
-public class SavingAccount 	extends FixedDepositAccount{
+public class SavingAccount extends FixedDepositAccount{
 
 	void withdraw(double amount)
 	{
